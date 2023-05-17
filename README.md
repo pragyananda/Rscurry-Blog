@@ -2,7 +2,7 @@
 A very easy and simple Blog platform for youtuber's and kitchen master's who want to online their recipes  over the world .
 
 <p align="center">
- <img src="media/recipes/Screenshot 2023-05-17 143721.png alt="website-screenshot" width="800" height="500" />
+ <img src="./media/recipes/Screenshot 2023-05-17 143721.png alt="website-screenshot" width="800" height="500" />
 </p>
 
 
@@ -18,7 +18,7 @@ A very easy and simple Blog platform for youtuber's and kitchen master's who wan
 
 ## Prerequisites:
 
-1. Install djnago
+1. Install django
 2. create a virtual environment
 3. Install all the requirements from requirements.txt file
 
