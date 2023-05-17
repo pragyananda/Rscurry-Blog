@@ -48,5 +48,5 @@ def contact_form(request):
         # data=contactform(name=user_name,email=user_email,subject=user_subject,message=user_message)
 
         user_data.save()
-        message='Thank you for Conact us.....'
+        message='<div class="alert alert-success" role="alert">Thank you for Conact us.....</div>'
     return render(request,"contact.html",{'message':message})
